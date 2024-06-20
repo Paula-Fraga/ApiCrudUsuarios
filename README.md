@@ -14,6 +14,7 @@ O projeto é uma API que realiza um CRUD simples de usuários.
 ## Configurando o Ambiente
 
 **Configure as credenciais do banco de dados no arquivo appsettings.json**
+
 **OBS: Precisa ser SQLSERVER**
 ```bash
   "ConnectionStrings": {
