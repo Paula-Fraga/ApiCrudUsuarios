@@ -9,6 +9,7 @@ O projeto é uma API que realiza um CRUD simples de usuários.
 ## Clonando o Repositório
 
 **Comece clonando o repositório do projeto no seu diretório local**
+![image](https://github.com/Paula-Fraga/ApiCrudUsuarios/assets/80989808/5ed53dac-4342-4b06-a3b2-cd07cbc13b97)
 
 ## Configurando o Ambiente
 
